@@ -9,12 +9,3 @@ if 1 <= N <= 9999:
     for i in range(len(strN)):
         Sum += int(strN[i])
     print(Sum)
-
-# 다른 사람이 한 것
-'''
-T = input()
-sum = 0
-for i in T:
-    sum += int(i)
-print(sum)
-'''
