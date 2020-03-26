@@ -13,18 +13,3 @@ for test_case in range(1, T + 1):
         else:
             continue
     print('#{} {}'.format(test_case, Max))
-
-
-# 다른 사람이 한 것
-'''
-case = int(input())
-for i in range(case):
-    result = 0
-    t = input().split(' ')
-    k = []
-    for j in t:
-        k.append(int(j))
-    result = max(k)
-
-    print("#{} {}".format(i + 1, result))
-'''
