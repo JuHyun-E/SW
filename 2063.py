@@ -13,11 +13,3 @@ if (N % 2 == 1) and (9 <= N <= 199):
     s.sort()
     mid = int(len(s)/2)
     print(s[mid])
-
-# 다른 사람이 한 것
-'''
-a = input()
-x = list(map(int, input().split()))
-x.sort()
-print(x[int(a)//2])
-'''
