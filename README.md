@@ -1,4 +1,5 @@
-# Algorithm[Link](https://github.com/JuHyun-E/SW/tree/master/Algorithm)
+# Algorithm
+[Link](https://github.com/JuHyun-E/SW/tree/master/Algorithm)
 ***
 # SW
 ## Difficulty Level 1
